@@ -2,6 +2,8 @@
 
 > 이 댓글... 욕설이 포함되어 있을까?
 
+라는 궁금증이 생길 때 쓸 수 있는 분류기
+
 ## 프로젝트 설명
 
 구글 코랩을 사용해 제작했습니다. dataset은 https://github.com/2runo/Curse-detection-data 의 사이트에서 txt 파일을 이용했습니다.
